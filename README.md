@@ -2,8 +2,8 @@
 
 ## Réalisation de la communication en I2C des Nunchuck
 
-- [ ] `Connection en I2C`
-- [ ] `Récupération des valeurs du Nunchuck`
+- [X] `Connection en I2C`
+- [X] `Récupération des valeurs du Nunchuck`
 
 ## Réalisation de la communication entre les deux Raspberry
 
