@@ -5,3 +5,8 @@
 - [ ] `Connection en I2C`
 - [ ] `Récupération des valeurs du Nunchuck`
 
+## Réalisation de la communication entre les deux Raspberry
+
+- [ ] `Connection en UART`
+- [ ] `Transfert de données entre les deux Raspberry
+
