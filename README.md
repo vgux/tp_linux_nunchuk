@@ -7,6 +7,6 @@
 
 ## Réalisation de la communication entre les deux Raspberry
 
-- [ ] `Connection en UART`
-- [ ] `Transfert de données entre les deux Raspberry`
+- [X] `Connection en UART`
+- [X] `Transfert de données entre les deux Raspberry`
 
